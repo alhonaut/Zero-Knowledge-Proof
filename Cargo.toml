@@ -6,4 +6,6 @@ edition = "2021"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-bellman = "0.8"
+bellman = "0.14"
+rand = "0.8.4"
+pairing-plus = "=0.19.0"
